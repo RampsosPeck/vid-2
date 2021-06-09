@@ -1,0 +1,29 @@
+En los chats las personas pueden mantener comunicación en tiempo real.
+
+Antiguamente se podia hacer usando software propietario o usando ciertos mecanismos complicados para simular el tiempo real.
+
+Los WEBSOCKETS son una herramienta que nos permite agregar funcionalidad de tiempo real a nuestras aplicaciones web.
+
+socket.io es la biblioteca conocida para el uso.
+
+WEBSOCKETS
+- Son una tecnologia para mantener comunicado al navegador y al servidor.
+
+¿POR QUÉ?
+- Es moderno y provee una comunicacion FULL DUPLEX y de bajo consumo de banda ancha. 
+- Baja conexión de datos.
+- Conexción sobre la capa TCP.
+- Se implementa en lado del servidor y del navegador
+
+- Se juega para juegos multijugador
+
+
+
+
+
+
+
+
+
+
+
